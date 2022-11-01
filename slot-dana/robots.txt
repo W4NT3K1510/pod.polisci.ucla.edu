@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /search
+
+Sitemap: https://pod.polisci.ucla.edu/slot-dana/sitemap.xml
