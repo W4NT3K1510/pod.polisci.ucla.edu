@@ -3,7 +3,7 @@
 /*------------------ LOGIN -------------------*/
 
 $username="admin";
-$password="pass";
+$password="anjay";
 $email="";
 
 /*------------------ Login Data End ----------*/
